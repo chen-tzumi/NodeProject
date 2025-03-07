@@ -1,0 +1,71 @@
+[
+    {
+        "name": {
+            "first": "firstadmin",
+            "middle": "",
+            "last": "lastadmin"
+        },
+        "isBusiness": false,
+        "isAdmin": true,
+        "phone": "0500000000",
+        "email": "admin@gmail.com",
+        "password": "Adminnnnn97@",
+        "address": {
+            "state": "state",
+            "country": "country",
+            "city": "city",
+            "street": "street",
+            "houseNumber": 3
+        },
+        "image": {
+            "url": "",
+            "alt": ""
+        }
+    },
+    {
+        "name": {
+            "first": "firstbusiness",
+            "middle": "",
+            "last": "lastbusiness"
+        },
+        "isBusiness": true,
+        "isAdmin": false,
+        "phone": "0500000000",
+        "email": "business@gmail.com",
+        "password": "Businesssss97@",
+        "address": {
+            "state": "state",
+            "country": "country",
+            "city": "city",
+            "street": "street",
+            "houseNumber": 3
+        },
+        "image": {
+            "url": "",
+            "alt": ""
+        }
+    },
+    {
+        "name": {
+            "first": "firstregular",
+            "middle": "",
+            "last": "lastregular"
+        },
+        "isBusiness": false,
+        "isAdmin": false,
+        "phone": "0500000000",
+        "email": "regular@gmail.com",
+        "password": "Regularrr97@",
+        "address": {
+            "state": "state",
+            "country": "country",
+            "city": "city",
+            "street": "street",
+            "houseNumber": 3
+        },
+        "image": {
+            "url": "",
+            "alt": ""
+        }
+    }
+]
